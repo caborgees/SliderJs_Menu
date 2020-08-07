@@ -1,0 +1,91 @@
+body{
+  background-color: #F8C548;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+header img {
+  top: 28px;
+  position: absolute;
+  margin-left: 30px;
+}
+
+header ul li {
+  list-style: none;
+  display: inline;
+  padding: 30px;
+  position: relative;
+   color: white;
+  top:28px;
+  left: 600px;
+}
+
+#img-menu{
+  position: relative;
+  left: 160px;
+top: 110px; /*altura menu*/ 
+}
+
+.menu{
+  position: absolute;
+width: 430px;
+height: 429px;
+left: 653px;
+top: 158px;
+
+background: #C1272D;
+}
+
+.voltar{
+  position: absolute;
+width: 223px;
+height: 109px;
+left: 653px;
+top: 580px;
+
+background: #EEEEEE;
+border: 0.5px solid #ADA5A5;
+box-sizing: border-box;
+}
+
+.avancar{
+  position: absolute;
+width: 223px;
+height: 109px;
+left: 863px;
+top: 580px;
+
+background: #EEEEEE;
+border: 0.5px solid #ADA5A5;
+box-sizing: border-box;
+}
+
+.menu h6{
+  margin: 20px;
+font-size: 18px;
+line-height: 23px;
+
+color: #FFFFFF;
+}
+
+.menu img{
+  margin: 20px;
+}
+
+.menu p{
+  margin: 20px;
+  color: white;
+  font-size: 16px;
+  font-style: normal;
+line-height: 28px;
+}
+
+.menu button{
+  width: 238px;
+  height: 48px;
+  margin: 20px;
+  display: inline;
+  color: white;
+  border: none;
+  background: #F8C548;
+}
